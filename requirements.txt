@@ -32,8 +32,8 @@ python-speech-features==0.6
 pytz==2018.3
 pyvtt==0.0.1
 query-string==0.0.28
-request==0.0.26
-requests==2.18.4
+request==0.0.2
+requests==2.20.0
 requests-oauthlib==0.8.0
 rsa==3.4.2
 scipy==1.0.0
@@ -41,6 +41,6 @@ six==1.11.0
 subprocess32==3.2.7
 tqdm==4.19.8
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.23
 webrtcvad==2.0.10
 youtube-dl==2018.3.20
